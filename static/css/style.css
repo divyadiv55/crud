@@ -1,0 +1,10 @@
+.mybox{
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    height: 20px;
+}
+body{
+    background-color: #D7E4C0;
+}
+    

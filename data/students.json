@@ -1,0 +1,25 @@
+{
+   "students": [
+      {
+         "id": 1,
+         "name": "divya",
+         "age": "18",
+         "course": "web development",
+         "courseduration": "3 month"
+      },
+      {
+         "id": 2,
+         "name": "divya",
+         "age": "18",
+         "course": "python",
+         "courseduration": "2 month"
+      },
+      {
+         "id": 3,
+         "name": "dghd",
+         "age": "aweth",
+         "course": "tally",
+         "courseduration": "etug"
+      }
+   ]
+}
